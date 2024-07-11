@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Usman Rao
-- 👀 I’m interested in node.js, MERN
+- 👀 I’m interested in frontend
 - 🌱 I’m currently learning node Sequelize
 - 💞️ I’m looking to collaborate on react.js
 
