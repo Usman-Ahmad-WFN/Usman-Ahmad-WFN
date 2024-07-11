@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Usman-Ahmad-WFN
+- 👋 Hi, I’m @Usman Rao
 - 👀 I’m interested in node.js, MERN
 - 🌱 I’m currently learning node Sequelize
 - 💞️ I’m looking to collaborate on react.js
